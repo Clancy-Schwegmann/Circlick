@@ -1,5 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+console.log("game script loaded");
 //set initial state.
 let current_state = "game";
 function SetState(state) {
@@ -14,4 +13,5 @@ function UpdateDisplay() {
 }
 SetState("game");
 UpdateDisplay();
+export {};
 //# sourceMappingURL=main.js.map

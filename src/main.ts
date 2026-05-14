@@ -1,3 +1,5 @@
+console.log("game script loaded");
+
 //Keep track of current game state.
 type game_states = "main_menu" | "game";
 
