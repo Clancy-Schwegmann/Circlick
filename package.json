@@ -1,0 +1,13 @@
+{
+  "name": "circle-aiming-game",
+  "version": "1.0.0",
+  "description": "Arcade game test project, made using TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Clancy Schwegmann",
+  "license": "ISC",
+  "type": "commonjs"
+}
